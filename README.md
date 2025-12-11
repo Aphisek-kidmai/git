@@ -1,5 +1,5 @@
 # This if my first repo 
 
-## my name is ahpisek
+## my name is aphisek
 
 ### I'm tong
